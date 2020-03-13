@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CSC161_JMarshall_InClass5", "CSC161_JMarshall_InClass5\CSC161_JMarshall_InClass5.vcxproj", "{A264EDC9-000C-4FF6-94F0-83B2A153A55F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2206ACB6-E781-4BC4-BD66-13646EFC25A1}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\csc2\CSC161_JMarshall_InClass2\CSC161_JMarshall_InClass2\LinkedList.h = ..\..\..\Desktop\csc2\CSC161_JMarshall_InClass2\CSC161_JMarshall_InClass2\LinkedList.h
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
